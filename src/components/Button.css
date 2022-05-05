@@ -1,0 +1,25 @@
+.button {
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+    background-color: red;
+    cursor: pointer;
+}
+
+.button-primary {
+    background-color: rosybrown;
+  }
+  
+  .button-secondary {
+    background-color: hotpink;
+  }
+  
+  .button-default {
+    background-color: lightslategray;
+  }
